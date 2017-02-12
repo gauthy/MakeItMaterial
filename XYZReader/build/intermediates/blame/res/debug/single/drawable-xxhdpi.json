@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\from f folder\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
+        "source": "H:\\from f folder\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "H:\\from f folder\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "H:\\from f folder\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "H:\\from f folder\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "H:\\from f folder\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
+    }
+]
