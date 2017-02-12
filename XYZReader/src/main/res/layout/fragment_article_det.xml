@@ -116,7 +116,7 @@
             android:layout_margin="16dp"
             app:fabSize="normal"
             app:elevation="6dp"
-            app:pressedTranslationZ="12dp"
+            app:pressedTranslationZ="6dp"
             app:borderWidth="0dp"
             android:layout_gravity="bottom|right"
             app:layout_anchorGravity="bottom|right|end"
